@@ -1,0 +1,13 @@
+html { 
+    background: url("../images/bckgrnd.png") repeat-x 0 0 scroll;
+    height:100%;
+    width:100%;
+}
+
+#carbuzz {
+    width: 300px;
+}
+
+#capstone {
+    width: 300px;
+}
