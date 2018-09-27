@@ -18,12 +18,30 @@ body, html {
 
 /* Nav Bar */
 
+.nav1 { 
+    background-color: black;
+}
+
 .navbar, .navbar-dark, .bg-dark {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+.navbar-brand {
+    margin-left: 210px;
+    padding: 20px;
+    margin-top: -15px;
+    margin-bottom: -15px;
+    margin-right: 520px;
+    background-color: burlywood;
+}
 
+#navcolor {
+    color: wheat;
+}
 
+.bg-dark {
+    background-color: black !important;
+}
 
 /* Headers */
 
@@ -73,4 +91,20 @@ p {
 #message {
     height: 20em;
     text-align: top;
+}
+
+/* Footer */
+
+.filler {
+    height: 40px;
+    background-color: burlywood;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.logos {
+    width: 35px;
+    margin-right: 10px;
 }
